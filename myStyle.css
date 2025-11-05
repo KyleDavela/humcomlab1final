@@ -1,0 +1,54 @@
+body { /*light background coiler witrh th efont being arial*/
+    background-color: #ECF4E8;
+    color: #93BFC7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header { /* another one the header light background again and aswell as the text with the fotn as instructed and aligned it in the center*/
+    padding: 5px;
+    color: #93BFC7;
+    text-align: center;
+    background-color: #F9B487;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav {
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: #ABE7B2;
+}
+a {
+    text-decoration: none;
+    padding: 5px;
+}
+a:hover {
+    background-color:#93BFC7;
+    color: white;
+}
+main {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+#home {
+    background-color:#CBF3BB;
+}
+#about {
+    background-color:#CBF3BB;
+}
+#projects {
+    background-color:#CBF3BB;
+}
+ul {
+    list-style-type: none;
+}
+li {
+ padding-bottom: 5px;
+}
+#contact {
+    background-color:#CBF3BB;
+}
+footer {
+    background-color: #174143;
+    padding: 8px;
+    text-align: center;
+}
